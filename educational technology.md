@@ -3,3 +3,5 @@
 * second-language (L2) acquisition    
   Literature on collaborative learning in second-language (L2) acquisition strongly supports the importance of social
 interaction and collaboration in L2 learning (Saville-Troike, 2006) and writing (Hyland, 2003).
+* granular  
+  If you need to give more **granular** permissions for accessing repositories in a personal account, you can convert the personal account to an organization.
